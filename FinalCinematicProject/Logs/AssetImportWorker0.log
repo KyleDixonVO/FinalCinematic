@@ -283,3 +283,4 @@ Received Import Request.
 Start importing Assets/Fantasy Skybox FREE/Scenes/TerrainGrass.terrainlayer using Guid(adb6478a7f24de14eb356d6dc3d0c502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f791df6aa2e6648586dd1894315ad0aa') in 0.033965 seconds
   Import took 0.036681 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
